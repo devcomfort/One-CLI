@@ -6,6 +6,7 @@
 
 - `one help`: 프로그램 명령을 보여줍니다.
 - `one install <app>`: `<app>`을 설치합니다.
+- `one uninstall <app>`: `<app>`을 제거합니다.
 - `one install <app> <command>`: `<app>`에서 `<command>`를 실행합니다.
 
 ## 작업 현황

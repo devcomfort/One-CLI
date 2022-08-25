@@ -19,13 +19,15 @@
   - [ ] 운영체제별 관리자 권한 요청 코드
 - [ ] Credit 정보 추가
   - [ ] 개발자 정보 추가
-- [ ] 설치 기능 구현
-  - [ ] `nvm` (진행 중)
-  - [ ] `yarn`
-  - [ ] `pnpm`
-  - [ ] `turborepo`
-  - [ ] `travisci`
-  - [ ] `circleci`
-  - [ ] `git`
-  - [ ] `gh`
-  - [ ] `vscode`
+
+# 지원 프로그램
+
+- [ ] `nvm` (진행 중)
+- [ ] `yarn`
+- [ ] `pnpm`
+- [ ] `turborepo`
+- [ ] `travisci`
+- [ ] `circleci`
+- [ ] `git`
+- [ ] `gh`
+- [ ] `vscode`
